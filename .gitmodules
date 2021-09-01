@@ -1,0 +1,3 @@
+[submodule "scaffold_app"]
+	path = scaffold_app
+	url = https://github.com/kaoritorikai23/genba_rails.git
